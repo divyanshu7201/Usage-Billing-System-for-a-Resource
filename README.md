@@ -13,7 +13,7 @@ This project has been developed in strict accordance with the guidelines and del
 * **No Frameworks or External Libraries**: Written in pure Python without using any business logic frameworks (like Flask, Django, FastAPI, or ORMs).
 * **Database Implementation**: Built with a persistent **PostgreSQL** database backend (treated as a plus point in evaluation), utilizing the standard connection driver.
 * **Data Model Design**: Relational table structure designed to reflect how enterprise database schemas are normalized.
-* **Executable Deliverables**: Runnable via terminal/command line interface (`main.py`). A programmatic automated test suite is also provided (`test_system.py`).
+* **Executable Deliverables**: Runnable via terminal/command line interface (`main.py`).
 * **Documentation**: Mandatory README file containing logic, data structures, and test scenarios.
 
 ---
